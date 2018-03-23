@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">for-linxmedia.ru</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="cybersport">Кибер-спорт</string>
+    <string name="loadingStr">Пожалуйста, подождите...</string>
+    <string name="networkNotAvailable">В данный момент сеть не доступна</string>
+    <string name="errorDataLoading">Ошибка загрузки данных:</string>
+    <string name="appException">Непредвиденное исключение в приложении:</string>
+    <string name="dataError">Не верные данные</string>
+</resources>
